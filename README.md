@@ -31,3 +31,7 @@ I hope you like the whole project that I will be doing with this game from the e
 
 tutorial que explica como crear el entorno. 
 
+## 2. Creando al protagonista 
+
+1 de 2: video que excplican como funcionan el animator controller y ademas lo configuramos
+2 de 2: video que crearemos los ficheros de script en C# para que se mueva el jugador.
